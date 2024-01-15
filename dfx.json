@@ -4,15 +4,6 @@
       "candid": "src/todo_backend/todo_backend.did",
       "package": "todo_backend",
       "type": "rust"
-    },
-    "todo_frontend": {
-      "dependencies": [
-        "todo_backend"
-      ],
-      "source": [
-        "src/todo_frontend/assets"
-      ],
-      "type": "assets"
     }
   },
   "defaults": {
